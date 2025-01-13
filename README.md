@@ -1,5 +1,3 @@
-### Updated README.md Content:
-
 ## SiamTech
 
 ### Overview
@@ -41,5 +39,3 @@ To be a leading force in AI innovation in Thailand, providing state-of-the-art A
 - เว็บไซต์: [SiamTech](https://siamtech.ai)
 
 ---
-
-Please review the content and let me know if any additional changes are needed.
